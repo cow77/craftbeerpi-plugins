@@ -129,3 +129,13 @@ LCDDisplay:
   api: 3.0
   author: Remo Breitenmoser
   repo_url: https://github.com/breiti78/craftbeerpiLCD.git  
+
+BrewPiActor:
+
+  description: With this add-on you can use BrewPi ssr control board and valve control board.
+
+  api: 3.0
+
+  author: Jacobus de Waal
+  
+  repo_url: https://github.com/cow77/https://github.com/cow77/cbpi_BrewPi.git  
