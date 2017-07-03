@@ -67,7 +67,7 @@ Mod_PWM:
 IFTTT-Notification:
   description: IFTTT Push Notifications for Craftbeerpi
   api: 3.0
-  author:  Luke Mullan
+ author:  Luke Mullan
   repo_url: https://github.com/jalim/IFTTT-Notifications.git
   
 Flowmeter:
@@ -131,11 +131,7 @@ LCDDisplay:
   repo_url: https://github.com/breiti78/craftbeerpiLCD.git  
 
 BrewPiActor:
-
   description: With this add-on you can use BrewPi ssr control board and valve control board.
-
   api: 3.0
-
   author: Jacobus de Waal
-  
   repo_url: https://github.com/cow77/https://github.com/cow77/cbpi_BrewPi.git  
