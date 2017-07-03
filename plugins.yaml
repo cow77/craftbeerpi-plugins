@@ -2,7 +2,7 @@ LCDDisplay:
   description: With this add-on you can display your Brewing steps temperatures on a 20x4 i2c LCD Display. The script will loop thru your kettles and display the target and current temperatur. If now brewing process is running it will show Brewery name and Date/Time
   api: 3.0
   author: Remo Breitenmoser
-  repo_url: https://github.com/cow77/craftbeerpiLCD  
+  repo_url: https://github.com/cow77/craftbeerpiLCD.git  
 
 BrewPiActor:
   description: With this add-on you can use BrewPi ssr control board and valve control board.
