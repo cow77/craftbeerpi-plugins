@@ -14,4 +14,4 @@ BrewPiActor:
   description: With this add-on you can use BrewPi's SSR control board and Valve control board (1-wire based).
   api: 3.0
   author: Jacobus de Waal
-  repo_url: -b cow77-patch-1 https://github.com/cow77/cbpi_BrewPi.git
+  repo_url: https://github.com/cow77/cbpi_BrewPi.git
